@@ -1,0 +1,15 @@
+go 1.23.2
+
+use (
+	./accesscontrol
+	./auditlog
+	./camera
+	./dashboard
+	./datamagnet
+	./event
+	./export
+	./iam
+	./notification
+	./server
+	./smartsensor
+)
